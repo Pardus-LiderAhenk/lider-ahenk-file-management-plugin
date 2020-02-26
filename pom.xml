@@ -83,7 +83,6 @@
 		<module>lider-file-management-feature</module>
 		<module>lider-console-file-management</module>
 		<module>lider-console-file-management-feature</module>
-		<module>ahenk-file-management</module>
 	</modules>
 
 	<build>
